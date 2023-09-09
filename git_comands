@@ -4,4 +4,7 @@ git add
 git commit -m
 git log
 git clone
-gi remote -v
+git remote -v
+git pull
+git push
+git fetch
