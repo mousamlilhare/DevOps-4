@@ -8,3 +8,5 @@ git remote -v
 git pull
 git push
 git fetch
+
+deleted old url
